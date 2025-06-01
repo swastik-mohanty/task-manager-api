@@ -4,7 +4,7 @@ A RESTful API for managing tasks with full **JWT authentication** and **user-spe
 
 ---
 
-## 🔗 Live URL (optional)
+## 🔗 Where You Can Host
 > _You can add your deployed URL here (e.g., Render, Railway, Vercel)_
 
 ---
