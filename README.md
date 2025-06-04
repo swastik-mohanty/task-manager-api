@@ -36,7 +36,7 @@ A RESTful API for managing tasks with full **JWT authentication** and **user-spe
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/swastik-mohanty/task-manager-api
+git clone https://github.com/swastik-mohanty/task-manager-api.git
 cd task-manager-api
 
 # 2. Install dependencies
